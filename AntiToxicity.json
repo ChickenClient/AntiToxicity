@@ -1,1 +1,28 @@
-
+{
+  "wordReplacements": [
+    {
+      "toxicWord": "noob",
+      "replacement": "pro"
+    },
+    {
+      "toxicWord": "stupid",
+      "replacement": "brilliant"
+    },
+    {
+      "toxicWord": "idiot",
+      "replacement": "genius"
+    },
+    {
+      "toxicWord": "hacker",
+      "replacement": "skillful player"
+    },
+    {
+      "toxicWord": "ragequit",
+      "replacement": "strategic timeout"
+    },
+    {
+      "toxicWord": "loser",
+      "replacement": "you're gonna win!"
+    }
+  ]
+}
